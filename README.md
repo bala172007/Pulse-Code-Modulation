@@ -4,7 +4,8 @@ Write a simple Python program for the modulation and demodulation of PCM
 # Tools required
 
 Google Colab
-
+# Theory 
+Pulse Code Modulation (PCM) is a technique used to convert an analog signal into a digital signal. It involves three steps: sampling, quantization, and encoding to produce a binary sequence. At the receiver, the signal is decoded and reconstructed to obtain the original analog signal.
 # Program
 ```
 # Experimental Verification of PCM and Demodulation
