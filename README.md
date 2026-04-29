@@ -1,6 +1,6 @@
 # Pulse-Code-Modulation
 # Aim
-Write a simple Python program for the modulation and demodulation of PCM, and DM.
+Write a simple Python program for the modulation and demodulation of PCM
 # Tools required
 
 Google Colab
@@ -134,4 +134,4 @@ plt.show()
 
 
 # Results
-Thus,the PCM AND DC is verified succesfully
+Thus,the Pulse code modulation and demodulation  is verified succesfully
